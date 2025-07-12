@@ -27,10 +27,10 @@ The landing page is divided into five main sections, each focused on a core prod
 
 ## 🎨 Design Highlights
 
-- **Visually engaging layout** using strong imagery and consistent typography
-- **Color Palette**: Includes bold colors like `#131C31` (dark blue) and `#E8C288` (warm beige/gold)
-- **Intuitive Navigation**: Users can quickly access product categories from the homepage
-- **Mobile-Responsive Design** (planned): Layout suitable for mobile and desktop screens
+- **Visually engaging layout** using strong imagery and consistent typography  
+- **Color Palette**: Includes bold colors like `#131C31` (dark blue) and `#E8C288` (warm beige/gold)  
+- **Intuitive Navigation**: Users can quickly access product categories from the homepage  
+- **Mobile-Responsive Design** (planned): Layout suitable for mobile and desktop screens  
 
 ## 🛠 Tools Used
 
@@ -40,13 +40,19 @@ The landing page is divided into five main sections, each focused on a core prod
 
 [Figma Project Link](https://www.figma.com/design/NLmUI3QWfviLcQimLJx7zl/website-desgin-gym?t=T1wLcjJcSs87stDN-0)
 
+## 📹 Video Preview
+
+Click the link below to view the design walkthrough video:
+
+🔗 [Watch Design Video](https://github.com/user-attachments/assets/6723e1ce-8375-4c02-8eff-d743e8f93413)
+
 ## 🚀 Use Case
 
 This design is ideal for:
 
-- Fitness product startups and gym brands
-- E-commerce platforms targeting fitness and travel customers
-- Designers or developers looking for a strong UI base for a Flutter Web or React project
+- Fitness product startups and gym brands  
+- E-commerce platforms targeting fitness and travel customers  
+- Designers or developers looking for a strong UI base for a Flutter Web or React project  
 
 ## 👤 Designed By
 
@@ -59,4 +65,3 @@ Have questions or want to collaborate?
 📧 Email: *komalpreet@example.com* (replace with your real contact)
 
 ---
-
