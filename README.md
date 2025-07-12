@@ -42,7 +42,11 @@ The landing page is divided into five main sections, each focused on a core prod
 
 ## 📹 Video Preview
 
-Click the link below to view the design walkthrough video:
+
+https://github.com/user-attachments/assets/755bad50-1a59-4a6f-ba25-b766cf367d9e
+
+
+
 
 🔗 [Watch Design Video](https://github.com/user-attachments/assets/6723e1ce-8375-4c02-8eff-d743e8f93413)
 
