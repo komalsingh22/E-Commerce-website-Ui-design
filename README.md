@@ -62,6 +62,6 @@ This design is ideal for:
 
 Have questions or want to collaborate?
 
-📧 Email: *komalpreet@example.com* (replace with your real contact)
+📧 Email: *komalpreet@356gmail.com* 
 
 ---
